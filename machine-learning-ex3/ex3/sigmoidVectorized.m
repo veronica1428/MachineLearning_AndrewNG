@@ -1,0 +1,1 @@
+%%sigmoid function using vectorization
